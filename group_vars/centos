@@ -1,0 +1,5 @@
+inventory_hostname: centserver
+yum_packages:
+  - curl
+  - gcc
+node_repo: https://rpm.nodesource.com/setup_5.x
